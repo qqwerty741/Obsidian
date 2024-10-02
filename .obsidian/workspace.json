@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информатика/Без названия.md",
+                "file": "Астра.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Информатика/Без названия.md",
+                "file": "Астра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Информатика/Без названия.md",
+                "file": "Астра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Информатика/Без названия.md"
+                "file": "Астра.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "c9b69ccac0ef1c97",
   "lastOpenFiles": [
-    "Астра.md",
     "Информатика/Без названия.md",
+    "Астра.md",
     "Информатика/ООП. Dynamic cast.md",
     "Информатика/ООП. Шаблоны. Шаблонные функции.md",
     "Информатика/ООП. Абстрактная функция.md",

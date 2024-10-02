@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1874b1c6df3cf650",
+        "id": "07ce8bc97934bb95",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b69ccac0ef1c97",
+            "id": "dfa71ae287eb8275",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Астра.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18bc371eb345e91b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Астра.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Астра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Астра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Астра.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,10 +138,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c9b69ccac0ef1c97",
+  "active": "4f1066e3fe92997c",
   "lastOpenFiles": [
+    "Астрономия/Астра.md",
     "Информатика/Без названия.md",
-    "Астра.md",
     "Информатика/ООП. Dynamic cast.md",
     "Информатика/ООП. Шаблоны. Шаблонные функции.md",
     "Информатика/ООП. Абстрактная функция.md",

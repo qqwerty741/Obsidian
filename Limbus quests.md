@@ -1,0 +1,58 @@
+- [ ] 15+ poise gifts
+- [x] 15+ charge gifts
+- [x] 10+ slash gifts
+- [x] 10+ pirce gifts
+- [ ] 10+ blunt gifts
+- [x] 10+ t4 gifts
+- [ ] 4+ t4 craft gifts
+- [ ] 5+ poise
+- [ ] 5+ charge
+- [ ] 6+ blade linage
+	- [ ] [Blade linage] Yi Sang
+	- [x] [Blade linage] Faust
+	- [x] [Blade linage] Don Quixote (00)
+	- [x] [Blade linage] Mersault
+	- [ ] [Blade linage] Sinclar
+	- [x] [Blade linage] Outis (00)
+- [ ] 5+ seven accos
+	- [x] [Seven Assoc.] Yi Sang (00)
+	- [x] [Seven Assoc.] Faust 
+	- [x] [Seven Assoc.] Ryoshu (00)
+	- [x] [Seven Assoc.] Heathcliff (00)
+	- [ ] [Seven Assoc.] Outis
+- [x] 5+ wcorp (Есть)
+	- [ ] 
+- [x] 5+ ncorp (Хватает)
+	- [x] [N Corp] Don Quixote (00)
+	- [ ] [N Corp] Mersault
+	- [x] [N Corp]Heathcliff (00)
+	- [x] [N Corp] Rodion (00)
+	- [x] [Who grips] Faust
+	- [x] [Who shall] Sinclar
+- [ ] 6+ wuthering/edgar
+	- [x] [Wuthering] Faust
+	- [x] [Wuthering] Outis
+	- [ ] [Edgar family] Ryoshu
+	- [x] [Edgar family] Ismael (00)
+	- [x] [Edgar family] Gregor
+	- [x] [Wild Hunt] Heathcliff
+- [ ] 3+ dieci (Есть)
+	- [ ] 
+- [ ] 3+ pequod
+	- [ ] [pequod] Yi Sang (00)
+	- [x] [pequod] Heathcliff
+	- [x] [pequod] Ishmael
+- [ ] 5+ kurokamo
+	- [ ] [Kurokumo Clan] Ryoshu
+	- [x] [Kurokumo Clan] Hong Lu (00)
+	- [x] [Kurokumo Clan] Heathcliff
+	- [ ] [Kurokumo Clan] Ishmael
+	- [ ] [Kurokumo Clan] Rodion
+	- [ ] [Kurokumo Clan] Gregor (00)
+- [ ] 30+ in shops
+- [ ] burn pot to 99
+- [ ] charge pot to 10
+- [ ] 6 kills single skill (?)
+- [ ] 3000+ max hp in single turn
+- [ ] 10+ types of negative effect
+- [ ] solo boss fight in 6 floor

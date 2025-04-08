@@ -4,39 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "07ce8bc97934bb95",
+        "id": "6012725faf260ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4dc0f999a07b41",
+            "id": "c6b27b3556bad832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информатика/Интерпритатор-компилятор/Без названия 1.md",
+                "file": "Способы получения карбонильных соединений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 1"
+              "title": "Способы получения карбонильных соединений"
             }
           },
           {
-            "id": "34ddcb04e28c2cd7",
+            "id": "079a2d1de3d8ba95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "4 В ряд прак.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "4 В ряд прак"
+            }
+          },
+          {
+            "id": "b6bd822c17525027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 В ряд прак.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 В ряд прак"
+            }
+          },
+          {
+            "id": "99f1c233170bd8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Формулы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Формулы"
+            }
+          },
+          {
+            "id": "d59e20ca74ebcb8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limbus quests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limbus quests"
+            }
+          },
+          {
+            "id": "7575fa60064f4695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6f3e6f692a28194b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limbus quests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limbus quests"
+            }
+          },
+          {
+            "id": "9b7c583dcffddc48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Химия/фыв.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "фыв"
+            }
+          },
+          {
+            "id": "d8802d7842396337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Перевод Лимбус.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перевод Лимбус"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -55,10 +153,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -170,53 +269,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "34ddcb04e28c2cd7",
+  "active": "d8802d7842396337",
   "lastOpenFiles": [
-    "Без названия 1.md",
-    "Информатика/Интерпритатор-компилятор/Без названия 1.md",
-    "Астрономия/Конфигурация планет.md",
-    "Астрономия/Астра.md",
-    "Без названия.md",
-    "Информатика/Этапы построения интерпритатора-компилятора.md",
-    "Информатика/Интерпритатор-компилятор/Синтаксический анализ.md",
-    "Биология/Закономерности  изменчивости.md",
-    "Физика/Переменный ток.md",
-    "История/Наука и культура второй половины XX - начала XXIвв..md",
-    "История/Страны Ближнего и Среднего Востока во 2й половине XX-начале XXIвв..md",
-    "Литра/Уроки мудрости; В.П.Астафьев (1924-2001) ''Зачем я убил коростеля'', Б.П.Екимов (1938) ''Ночь исцеления''.md",
-    "Русский (ЕГЭ)/Задание 4.md",
-    "Русский (ЕГЭ)",
-    "Литра/Сложность художественного мира поэмы А.А.Блока ''Двенадцать''.md",
-    "Литра/А.А.Блок (1880-1921гг) Разнообразие мотивов лирики. Поэма ''Двенадцать''.md",
-    "Литра/Поэма А.А.Блока ''Двенадцать''. Почему Христос..md",
-    "Информатика/Интерпритатор-компилятор/Лексический анализ.md",
-    "Информатика/Интерпритатор-компилятор",
-    "Физика/Механические волны.md",
-    "Pasted image 20241017121549.png",
-    "ДЗ.md",
-    "Информатика/Преобразования КС-грамматики.md",
-    "Литра/Россия. История создания.md",
-    "Литра/Иван Алексеевич Бунин. Социально-философская проблематика рассказов ''Чистый понедельник'', ''Господин из Сан-Франциско'' (7.10.24).md",
-    "Без названия 3.md",
-    "Информатика/Без названия.md",
-    "Биология/Неполное доминирование и анализирующее скрещивание (8.10).md",
-    "Биология/Закономерности наследование признаков. Моногибридное скрещивание.md",
-    "Pasted image 20241003085655.png",
-    "copilot-conversations",
-    "Литра",
-    "Астрономия",
-    "Информатика",
-    "История",
-    "Физика",
-    "Матеша",
-    "Биология"
+    "Химия/фыв.md",
+    "Химия/Untitled 1.md",
+    "Химические свойства карбоновых кислот.md",
+    "Limbus quests.md",
+    "Перевод Лимбус.md",
+    "Skills 1.json",
+    "Skills.json",
+    "Pasted image 20250405162556.png",
+    "Untitled.md",
+    "Способы получения карбонильных соединений.md",
+    "Физика/Формулы.md",
+    "Физика/Механические колебания.md",
+    "Untitled 3.md",
+    "Изомерия и номенклатура. Карбонильные соединения.md",
+    "Карбоновая кислота.md",
+    "4 В ряд прак.md",
+    "АстраДЗ.md",
+    "Геома/Untitled.md",
+    "Астрономия/Синодический и сидерический периоды.md",
+    "Иняз.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Pasted image 20250303083545.png",
+    "Астрономия/Развитие многоклеточных.md",
+    "Астрономия/Солнечная система.md",
+    "Астрономия/Астрофизика. Излучение.md",
+    "ЗСИ.md",
+    "Механизмы излучения звезд.md",
+    "Pasted image 20250218103314.png",
+    "Pasted image 20250218102717.png",
+    "Фенолы.md",
+    "Литература - 30-е годы.md",
+    "Химия",
+    "Геома",
+    "Pasted image 20241226002553.png",
+    "Pasted image 20241226001630.png",
+    "Pasted image 20241226001126.png",
+    "Pasted image 20241226000838.png",
+    "Pasted image 20241226000004.png",
+    "Pasted image 20241225233400.png",
+    "Албебра",
+    "Иняз",
+    "Новый текстовый документ.txt",
+    "Новая папка",
+    "desktop.ini",
+    "Русский (ЕГЭ)"
   ]
 }
